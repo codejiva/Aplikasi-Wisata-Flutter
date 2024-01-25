@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aplikasi_tempat_wisata
 
 Aplikasi untuk tempat wisata
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Aplikasi-Wisata-Flutter
+Repository aplikasi tempat wisata bandung dengan Flutter
+>>>>>>> e072aa0583327acfa6e6c6f48287f54cd96f8a3d
